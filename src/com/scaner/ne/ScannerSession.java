@@ -14,7 +14,7 @@ public class ScannerSession {
 	System.out.println("Enter a Value :");
 	int a = s.nextInt();
 	System.out.println("Entered value :"+a);
-	System.out.println("Enter a value :");
+	System.out.println("Enter value :");
 	long b =s.nextLong();
 	System.out.println("Entered value :"+b);
 //	System.out.println("Enter value :");
@@ -25,6 +25,8 @@ public class ScannerSession {
 	boolean d =s.nextBoolean();
 	System.out.println("Entered attendance :"+d);
 	
+	System.out.println("Enter a name");
+	System.out.println("JAYAKUMAR");
 	
 	
 	}
